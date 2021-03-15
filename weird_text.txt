@@ -1,2 +1,2 @@
-v := input()
-count := v^2
+v=int(input())
+count=v**2
