@@ -1,0 +1,2 @@
+v := input()
+count := v^2
